@@ -369,7 +369,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-black {
-  background-color: #191A1F !important;
+  background-color: #191A1F;
 }
 
 .text-primary {
